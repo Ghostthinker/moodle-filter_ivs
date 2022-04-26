@@ -1,0 +1,19 @@
+.ivs-annotation-embedded .ivs-annotation-content {
+    float: none !important;
+    width: auto !important;
+    clear: both;
+}
+
+.ivs-annotation-embedded  .ivs-audio-annotation-content {
+    display: block;
+    float: left;
+    clear: both;
+}
+
+.ivs-annotation-embedded .vjs-control-bar {
+    position: unset !important;
+}
+
+.ivs-annotation-embedded .ivs-audio-annotation-content .video-js {
+
+}
