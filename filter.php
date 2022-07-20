@@ -28,7 +28,7 @@ use mod_ivs\IvsHelper;
 
 
 /**
- * Mathjax filtering
+ * ivs filtering
  */
 class filter_ivs extends moodle_text_filter {
     /*
