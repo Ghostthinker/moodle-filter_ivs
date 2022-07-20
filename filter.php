@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * This filter provides automatic support for MathJax
+ * This filter provides automatic support for ivs
  *
  * @package    filter_ivs
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
