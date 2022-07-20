@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * MathJax filter version information
+ * IVS filter version information
  *
  * @package    filter_ivs
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
