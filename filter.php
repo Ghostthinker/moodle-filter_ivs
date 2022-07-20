@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * This filter provides automatic support for IVS
+ * This filter provides automatic support for ivs
  *
  * @package    filter_ivs
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -28,7 +28,7 @@ use mod_ivs\IvsHelper;
 
 
 /**
- * IVS filtering
+ * ivs filtering
  */
 class filter_ivs extends moodle_text_filter {
     /*
